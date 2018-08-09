@@ -11,8 +11,7 @@ This Example Show's:-
 - Database Operations use:-
 
  1) Insert.
- 2) Update.
- 3) Delete.
+ 2) Delete.
 
 - Android architecture components:-
 
