@@ -8,6 +8,18 @@ This Example Show's:-
 2) How to make Simple app wiht Setting in Andorid.
 3) How to use Thread Pool to save in data in background.
 
+- Database Operations use:-
+
+ 1) Insert.
+ 2) Update.
+ 3) Delete.
+
+- Android architecture components:-
+
+ 1) LiveData.
+ 2) ViewModel.
+ 3) Room Persistence Library. 
+
 ### Note:-
 
 Here we are using **LiveData instead of Loader**. We can use **LiveData instead of Loader**.
@@ -17,6 +29,7 @@ You can Check this documentation for Loader and LiveData [Click here](https://de
 
 1) Can we use **LiveData instead of Loader**?<br>
 **Ans**:- Yes we can use **LiveData instead of Loader**. 
+
 
 ## Screenshots:-
 
