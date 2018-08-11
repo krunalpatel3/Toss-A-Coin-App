@@ -5,7 +5,7 @@ This is Flip a coin app and Records the Flip History.
 This Example Show's:-
 
 1) How to use fragments with ViewModel.
-2) How to make Simple app wiht Setting in Andorid.
+2) How to make Simple app with Setting in Andorid.
 3) How to use Thread Pool to save in data in background.
 
 - Database Operations use:-
